@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //nothing
 
         imageButton = (ImageButton) findViewById(R.id.imageButton);
         resetButton = (Button) findViewById(R.id.resetButton);
